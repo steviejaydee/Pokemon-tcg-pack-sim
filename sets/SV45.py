@@ -1,0 +1,153 @@
+SV45 = {
+    "Paldean Fates": {
+        "pull_rates": {
+            "P_DR": 1/6, "P_SR": 1/4, "P_SUR": 1/13, "P_IR": 1/14, "P_UR": 1/15, "P_SIR": 1/58, "P_HR": 1/62
+        },
+        "card_database": {
+            "Common": [
+                ("Pineco", "PAF", "001", "Common", "Pokémon"), ("Maractus", "PAF", "003", "Common", "Pokémon"),
+                ("Toedscool", "PAF", "004", "Common", "Pokémon"), ("Charmander", "PAF", "007", "Common", "Pokémon"),
+                ("Magmar", "PAF", "009", "Common", "Pokémon"), ("Numel", "PAF", "011", "Common", "Pokémon"),
+                ("Charcadet", "PAF", "014", "Common", "Pokémon"), ("Lapras", "PAF", "016", "Common", "Pokémon"),
+                ("Frigibax", "PAF", "017", "Common", "Pokémon"), ("Pikachu", "PAF", "018", "Common", "Pokémon"),
+                ("Chinchou", "PAF", "020", "Common", "Pokémon"), ("Exeggcute", "PAF", "023", "Common", "Pokémon"),
+                ("Natu", "PAF", "025", "Common", "Pokémon"), ("Ralts", "PAF", "027", "Common", "Pokémon"),
+                ("Chimecho", "PAF", "030", "Common", "Pokémon"), ("Mime Jr.", "PAF", "031", "Common", "Pokémon"),
+                ("Woobat", "PAF", "032", "Common", "Pokémon"), ("Cottonee", "PAF", "034", "Common", "Pokémon"),
+                ("Dedenne", "PAF", "036", "Common", "Pokémon"), ("Fidough", "PAF", "038", "Common", "Pokémon"),
+                ("Flittle", "PAF", "041", "Common", "Pokémon"), ("Greavard", "PAF", "042", "Common", "Pokémon"),
+                ("Gimmighoul", "PAF", "044", "Common", "Pokémon"), ("Mankey", "PAF", "045", "Common", "Pokémon"),
+                ("Phanpy", "PAF", "048", "Common", "Pokémon"), ("Barboach", "PAF", "050", "Common", "Pokémon"),
+                ("Clobbopus", "PAF", "051", "Common", "Pokémon"), ("Gastly", "PAF", "055", "Common", "Pokémon"),
+                ("Haunter", "PAF", "056", "Common", "Pokémon"), ("Paldean Wooper", "PAF", "058", "Common", "Pokémon"),
+                ("Scraggy", "PAF", "060", "Common", "Pokémon"), ("Maschiff", "PAF", "062", "Common", "Pokémon"),
+                ("Varoom", "PAF", "064", "Common", "Pokémon"), ("Noibat", "PAF", "068", "Common", "Pokémon"),
+                ("Lechonk", "PAF", "071", "Common", "Pokémon"), ("Tandemaus", "PAF", "073", "Common", "Pokémon"),
+                ("Nemona", "PAF", "082", "Common", "Trainer"), ("Paldean Student", "PAF", "085", "Common", "Trainer"),
+                ("Paldean Student", "PAF", "086", "Common", "Trainer"), ("Rare Candy", "PAF", "089", "Common", "Trainer")
+            ],
+            "Uncommon": [
+                ("Charmeleon", "PAF", "008", "Uncommon", "Pokémon"), ("Camerupt", "PAF", "012", "Uncommon", "Pokémon"),
+                ("Lanturn", "PAF", "021", "Uncommon", "Pokémon"), ("Kilowattrel", "PAF", "022", "Uncommon", "Pokémon"),
+                ("Kirlia", "PAF", "028", "Uncommon", "Pokémon"), ("Swoobat", "PAF", "033", "Uncommon", "Pokémon"),
+                ("Whimsicott", "PAF", "035", "Uncommon", "Pokémon"), ("Dachsbun", "PAF", "039", "Uncommon", "Pokémon"),
+                ("Primeape", "PAF", "046", "Uncommon", "Pokémon"), ("Donphan", "PAF", "049", "Uncommon", "Pokémon"),
+                ("Grapploct", "PAF", "052", "Uncommon", "Pokémon"), ("Gengar", "PAF", "057", "Uncommon", "Pokémon"),
+                ("Scrafty", "PAF", "061", "Uncommon", "Pokémon"), ("Oinkologne", "PAF", "072", "Uncommon", "Pokémon"),
+                ("Maushold", "PAF", "074", "Uncommon", "Pokémon"), ("Artazon", "PAF", "076", "Uncommon", "Trainer"),
+                ("Atticus", "PAF", "077", "Uncommon", "Trainer"), ("Clive", "PAF", "078", "Uncommon", "Trainer"),
+                ("Electric Generator", "PAF", "079", "Uncommon", "Trainer"), ("Iono", "PAF", "080", "Uncommon", "Trainer"),
+                ("Moonlit Hill", "PAF", "081", "Uncommon", "Trainer"), ("Nemona’s Backpack", "PAF", "083", "Uncommon", "Trainer"),
+                ("Nest Ball", "PAF", "084", "Uncommon", "Trainer"), ("Technical Machine: Crisis Punch", "PAF", "090", "Uncommon", "Trainer"),
+                ("Ultra Ball", "PAF", "091", "Uncommon", "Trainer")
+            ],
+            "Rare": [
+                ("Magmortar", "PAF", "010", "Rare", "Pokémon"), ("Heat Rotom", "PAF", "013", "Rare", "Pokémon"),
+                ("Armarouge", "PAF", "015", "Rare", "Pokémon"), ("Raichu", "PAF", "019", "Rare", "Pokémon"),
+                ("Exeggutor", "PAF", "024", "Rare", "Pokémon"), ("Xatu", "PAF", "026", "Rare", "Pokémon"),
+                ("Mimikyu", "PAF", "037", "Rare", "Pokémon"), ("Ceruledge", "PAF", "040", "Rare", "Pokémon"),
+                ("Houndstone", "PAF", "043", "Rare", "Pokémon"), ("Annihilape", "PAF", "047", "Rare", "Pokémon"),
+                ("Mabosstiff", "PAF", "063", "Rare", "Pokémon"), ("Revavroom", "PAF", "065", "Rare", "Pokémon"),
+                ("Gholdengo", "PAF", "067", "Rare", "Pokémon"), ("Cyclizar", "PAF", "070", "Rare", "Pokémon"),
+                ("Professor’s Research", "PAF", "087", "Rare", "Trainer"), ("Professor’s Research", "PAF", "088", "Rare", "Trainer")
+            ],
+            "Double Rare": [
+                ("Forretress ex", "PAF", "002", "Double Rare", "Pokémon"), ("Toedscruel ex", "PAF", "005", "Double Rare", "Pokémon"),
+                ("Espathra ex", "PAF", "006", "Double Rare", "Pokémon"), ("Gardevoir ex", "PAF", "029", "Double Rare", "Pokémon"),
+                ("Great Tusk ex", "PAF", "053", "Double Rare", "Pokémon"), ("Charizard ex", "PAF", "054", "Double Rare", "Pokémon"),
+                ("Paldean Clodsire ex", "PAF", "059", "Double Rare", "Pokémon"), ("Iron Treads ex", "PAF", "066", "Double Rare", "Pokémon"),
+                ("Noivern ex", "PAF", "069", "Double Rare", "Pokémon"), ("Squawkabilly ex", "PAF", "075", "Double Rare", "Pokémon")
+            ],
+            "Shiny Rare": [
+                ("Oddish", "PAF", "092", "Shiny Rare", "Pokémon"), ("Gloom", "PAF", "093", "Shiny Rare", "Pokémon"),
+                ("Vileplume", "PAF", "094", "Shiny Rare", "Pokémon"), ("Scyther", "PAF", "095", "Shiny Rare", "Pokémon"),
+                ("Hoppip", "PAF", "096", "Shiny Rare", "Pokémon"), ("Skiploom", "PAF", "097", "Shiny Rare", "Pokémon"),
+                ("Jumpluff", "PAF", "098", "Shiny Rare", "Pokémon"), ("Pineco", "PAF", "099", "Shiny Rare", "Pokémon"),
+                ("Snover", "PAF", "100", "Shiny Rare", "Pokémon"), ("Abomasnow", "PAF", "101", "Shiny Rare", "Pokémon"),
+                ("Smoliv", "PAF", "102", "Shiny Rare", "Pokémon"), ("Dolliv", "PAF", "103", "Shiny Rare", "Pokémon"),
+                ("Arboliva", "PAF", "104", "Shiny Rare", "Pokémon"), ("Toedscool", "PAF", "105", "Shiny Rare", "Pokémon"),
+                ("Capsakid", "PAF", "106", "Shiny Rare", "Pokémon"), ("Scovillain", "PAF", "107", "Shiny Rare", "Pokémon"),
+                ("Rellor", "PAF", "108", "Shiny Rare", "Pokémon"), ("Charmander", "PAF", "109", "Shiny Rare", "Pokémon"),
+                ("Charmeleon", "PAF", "110", "Shiny Rare", "Pokémon"), ("Paldean Tauros", "PAF", "111", "Shiny Rare", "Pokémon"),
+                ("Entei", "PAF", "112", "Shiny Rare", "Pokémon"), ("Oricorio", "PAF", "113", "Shiny Rare", "Pokémon"),
+                ("Charcadet", "PAF", "114", "Shiny Rare", "Pokémon"), ("Armarouge", "PAF", "115", "Shiny Rare", "Pokémon"),
+                ("Slowpoke", "PAF", "116", "Shiny Rare", "Pokémon"), ("Slowbro", "PAF", "117", "Shiny Rare", "Pokémon"),
+                ("Staryu", "PAF", "118", "Shiny Rare", "Pokémon"), ("Starmie", "PAF", "119", "Shiny Rare", "Pokémon"),
+                ("Paldean Tauros", "PAF", "120", "Shiny Rare", "Pokémon"), ("Wiglett", "PAF", "121", "Shiny Rare", "Pokémon"),
+                ("Wugtrio", "PAF", "122", "Shiny Rare", "Pokémon"), ("Finizen", "PAF", "123", "Shiny Rare", "Pokémon"),
+                ("Palafin", "PAF", "124", "Shiny Rare", "Pokémon"), ("Veluza", "PAF", "125", "Shiny Rare", "Pokémon"),
+                ("Dondozo", "PAF", "126", "Shiny Rare", "Pokémon"), ("Tatsugiri", "PAF", "127", "Shiny Rare", "Pokémon"),
+                ("Frigibax", "PAF", "128", "Shiny Rare", "Pokémon"), ("Arctibax", "PAF", "129", "Shiny Rare", "Pokémon"),
+                ("Baxcalibur", "PAF", "130", "Shiny Rare", "Pokémon"), ("Pikachu", "PAF", "131", "Shiny Rare", "Pokémon"),
+                ("Raichu", "PAF", "132", "Shiny Rare", "Pokémon"), ("Voltorb", "PAF", "133", "Shiny Rare", "Pokémon"),
+                ("Electrode", "PAF", "134", "Shiny Rare", "Pokémon"), ("Shinx", "PAF", "135", "Shiny Rare", "Pokémon"),
+                ("Luxio", "PAF", "136", "Shiny Rare", "Pokémon"), ("Luxray", "PAF", "137", "Shiny Rare", "Pokémon"),
+                ("Pachirisu", "PAF", "138", "Shiny Rare", "Pokémon"), ("Thundurus", "PAF", "139", "Shiny Rare", "Pokémon"),
+                ("Toxel", "PAF", "140", "Shiny Rare", "Pokémon"), ("Toxtricity", "PAF", "141", "Shiny Rare", "Pokémon"),
+                ("Pawmi", "PAF", "142", "Shiny Rare", "Pokémon"), ("Pawmo", "PAF", "143", "Shiny Rare", "Pokémon"),
+                ("Pawmot", "PAF", "144", "Shiny Rare", "Pokémon"), ("Wattrel", "PAF", "145", "Shiny Rare", "Pokémon"),
+                ("Kilowattrel", "PAF", "146", "Shiny Rare", "Pokémon"), ("Wigglytuff", "PAF", "147", "Shiny Rare", "Pokémon"),
+                ("Abra", "PAF", "148", "Shiny Rare", "Pokémon"), ("Kadabra", "PAF", "149", "Shiny Rare", "Pokémon"),
+                ("Cleffa", "PAF", "150", "Shiny Rare", "Pokémon"), ("Natu", "PAF", "151", "Shiny Rare", "Pokémon"),
+                ("Xatu", "PAF", "152", "Shiny Rare", "Pokémon"), ("Ralts", "PAF", "153", "Shiny Rare", "Pokémon"),
+                ("Kirlia", "PAF", "154", "Shiny Rare", "Pokémon"), ("Drifloon", "PAF", "155", "Shiny Rare", "Pokémon"),
+                ("Drifblim", "PAF", "156", "Shiny Rare", "Pokémon"), ("Mime Jr.", "PAF", "157", "Shiny Rare", "Pokémon"),
+                ("Spiritomb", "PAF", "158", "Shiny Rare", "Pokémon"), ("Klefki", "PAF", "159", "Shiny Rare", "Pokémon"),
+                ("Mimikyu", "PAF", "160", "Shiny Rare", "Pokémon"), ("Dachsbun", "PAF", "161", "Shiny Rare", "Pokémon"),
+                ("Ceruledge", "PAF", "162", "Shiny Rare", "Pokémon"), ("Rabsca", "PAF", "163", "Shiny Rare", "Pokémon"),
+                ("Flittle", "PAF", "164", "Shiny Rare", "Pokémon"), ("Tinkatink", "PAF", "165", "Shiny Rare", "Pokémon"),
+                ("Tinkatuff", "PAF", "166", "Shiny Rare", "Pokémon"), ("Tinkaton", "PAF", "167", "Shiny Rare", "Pokémon"),
+                ("Houndstone", "PAF", "168", "Shiny Rare", "Pokémon"), ("Mankey", "PAF", "169", "Shiny Rare", "Pokémon"),
+                ("Primeape", "PAF", "170", "Shiny Rare", "Pokémon"), ("Annihilape", "PAF", "171", "Shiny Rare", "Pokémon"),
+                ("Paldean Tauros", "PAF", "172", "Shiny Rare", "Pokémon"), ("Riolu", "PAF", "173", "Shiny Rare", "Pokémon"),
+                ("Lucario", "PAF", "174", "Shiny Rare", "Pokémon"), ("Hawlucha", "PAF", "175", "Shiny Rare", "Pokémon"),
+                ("Nacli", "PAF", "176", "Shiny Rare", "Pokémon"), ("Naclstack", "PAF", "177", "Shiny Rare", "Pokémon"),
+                ("Garganacl", "PAF", "178", "Shiny Rare", "Pokémon"), ("Glimmet", "PAF", "179", "Shiny Rare", "Pokémon"),
+                ("Paldean Wooper", "PAF", "180", "Shiny Rare", "Pokémon"), ("Murkrow", "PAF", "181", "Shiny Rare", "Pokémon"),
+                ("Sneasel", "PAF", "182", "Shiny Rare", "Pokémon"), ("Weavile", "PAF", "183", "Shiny Rare", "Pokémon"),
+                ("Sableye", "PAF", "184", "Shiny Rare", "Pokémon"), ("Pawniard", "PAF", "185", "Shiny Rare", "Pokémon"),
+                ("Bisharp", "PAF", "186", "Shiny Rare", "Pokémon"), ("Kingambit", "PAF", "187", "Shiny Rare", "Pokémon"),
+                ("Mabosstiff", "PAF", "188", "Shiny Rare", "Pokémon"), ("Shroodle", "PAF", "189", "Shiny Rare", "Pokémon"),
+                ("Grafaiai", "PAF", "190", "Shiny Rare", "Pokémon"), ("Scizor", "PAF", "191", "Shiny Rare", "Pokémon"),
+                ("Varoom", "PAF", "192", "Shiny Rare", "Pokémon"), ("Revavroom", "PAF", "193", "Shiny Rare", "Pokémon"),
+                ("Noibat", "PAF", "194", "Shiny Rare", "Pokémon"), ("Cyclizar", "PAF", "195", "Shiny Rare", "Pokémon"),
+                ("Pidgey", "PAF", "196", "Shiny Rare", "Pokémon"), ("Pidgeotto", "PAF", "197", "Shiny Rare", "Pokémon"),
+                ("Jigglypuff", "PAF", "198", "Shiny Rare", "Pokémon"), ("Doduo", "PAF", "199", "Shiny Rare", "Pokémon"),
+                ("Dodrio", "PAF", "200", "Shiny Rare", "Pokémon"), ("Ditto", "PAF", "201", "Shiny Rare", "Pokémon"),
+                ("Snorlax", "PAF", "202", "Shiny Rare", "Pokémon"), ("Wingull", "PAF", "203", "Shiny Rare", "Pokémon"),
+                ("Pelipper", "PAF", "204", "Shiny Rare", "Pokémon"), ("Skwovet", "PAF", "205", "Shiny Rare", "Pokémon"),
+                ("Greedent", "PAF", "206", "Shiny Rare", "Pokémon"), ("Lechonk", "PAF", "207", "Shiny Rare", "Pokémon"),
+                ("Oinkologne", "PAF", "208", "Shiny Rare", "Pokémon"), ("Tandemaus", "PAF", "209", "Shiny Rare", "Pokémon"),
+                ("Maushold", "PAF", "210", "Shiny Rare", "Pokémon"), ("Flamigo", "PAF", "211", "Shiny Rare", "Pokémon")
+            ],
+            "Shiny Ultra Rare": [
+                ("Forretress ex", "PAF", "212", "Shiny Ultra Rare", "Pokémon"), ("Toedscruel ex", "PAF", "213", "Shiny Ultra Rare", "Pokémon"),
+                ("Espathra ex", "PAF", "214", "Shiny Ultra Rare", "Pokémon"), ("Alakazam ex", "PAF", "215", "Shiny Ultra Rare", "Pokémon"),
+                ("Mew ex", "PAF", "216", "Shiny Ultra Rare", "Pokémon"), ("Gardevoir ex", "PAF", "217", "Shiny Ultra Rare", "Pokémon"),
+                ("Glimmora ex", "PAF", "218", "Shiny Ultra Rare", "Pokémon"), ("Paldean Clodsire ex", "PAF", "219", "Shiny Ultra Rare", "Pokémon"),
+                ("Noivern ex", "PAF", "220", "Shiny Ultra Rare", "Pokémon"), ("Pidgeot ex", "PAF", "221", "Shiny Ultra Rare", "Pokémon"),
+                ("Wigglytuff ex", "PAF", "222", "Shiny Ultra Rare", "Pokémon"), ("Squawkabilly ex", "PAF", "223", "Shiny Ultra Rare", "Pokémon")
+            ],
+            "Illustration Rare": [
+                ("Wugtrio", "PAF", "224", "Illustration Rare", "Pokémon"), ("Palafin", "PAF", "225", "Illustration Rare", "Pokémon"),
+                ("Pawmi", "PAF", "226", "Illustration Rare", "Pokémon")
+            ],
+            "Ultra Rare": [
+                ("Clive", "PAF", "227", "Ultra Rare", "Trainer"), ("Judge", "PAF", "228", "Ultra Rare", "Trainer"),
+                ("Nemona", "PAF", "229", "Ultra Rare", "Trainer"), ("Paldean Student", "PAF", "230", "Ultra Rare", "Trainer"),
+                ("Paldean Student", "PAF", "231", "Ultra Rare", "Trainer")
+            ],
+            "Special Illustration Rare": [
+                ("Mew ex", "PAF", "232", "Special Illustration Rare", "Pokémon"), ("Gardevoir ex", "PAF", "233", "Special Illustration Rare", "Pokémon"),
+                ("Charizard ex", "PAF", "234", "Special Illustration Rare", "Pokémon"), ("Arven", "PAF", "235", "Special Illustration Rare", "Trainer"),
+                ("Clive", "PAF", "236", "Special Illustration Rare", "Trainer"), ("Iono", "PAF", "237", "Special Illustration Rare", "Trainer"),
+                ("Nemona", "PAF", "238", "Special Illustration Rare", "Trainer"), ("Penny", "PAF", "239", "Special Illustration Rare", "Trainer")
+            ],
+            "Hyper Rare": [
+                ("Wo-Chien ex", "PAF", "240", "Hyper Rare", "Pokémon"), ("Chi-Yu ex", "PAF", "241", "Hyper Rare", "Pokémon"),
+                ("Chien-Pao ex", "PAF", "242", "Hyper Rare", "Pokémon"), ("Miraidon ex", "PAF", "243", "Hyper Rare", "Pokémon"),
+                ("Ting-Lu ex", "PAF", "244", "Hyper Rare", "Pokémon"), ("Koraidon ex", "PAF", "245", "Hyper Rare", "Pokémon")
+            ]
+        }
+    }
+}

@@ -1,0 +1,131 @@
+SV35 = {
+    "Scarlet & Violet—151": {
+        "pull_rates": {
+            "P_DR": 1/8, "P_IR": 1/12, "P_UR": 1/16, "P_SIR": 1/32, "P_HR": 1/51
+        },
+        "card_database": {
+            "Common": [
+                ("Bulbasaur", "MEW", "001", "Common", "Pokémon"), ("Charmander", "MEW", "004", "Common", "Pokémon"),
+                ("Squirtle", "MEW", "007", "Common", "Pokémon"), ("Caterpie", "MEW", "010", "Common", "Pokémon"),
+                ("Metapod", "MEW", "011", "Common", "Pokémon"), ("Weedle", "MEW", "013", "Common", "Pokémon"),
+                ("Kakuna", "MEW", "014", "Common", "Pokémon"), ("Pidgey", "MEW", "016", "Common", "Pokémon"),
+                ("Pidgeotto", "MEW", "017", "Common", "Pokémon"), ("Rattata", "MEW", "019", "Common", "Pokémon"),
+                ("Spearow", "MEW", "021", "Common", "Pokémon"), ("Ekans", "MEW", "023", "Common", "Pokémon"),
+                ("Pikachu", "MEW", "025", "Common", "Pokémon"), ("Sandshrew", "MEW", "027", "Common", "Pokémon"),
+                ("Nidoran Female", "MEW", "029", "Common", "Pokémon"), ("Nidoran Male", "MEW", "032", "Common", "Pokémon"),
+                ("Clefairy", "MEW", "035", "Common", "Pokémon"), ("Vulpix", "MEW", "037", "Common", "Pokémon"),
+                ("Jigglypuff", "MEW", "039", "Common", "Pokémon"), ("Zubat", "MEW", "041", "Common", "Pokémon"),
+                ("Oddish", "MEW", "043", "Common", "Pokémon"), ("Paras", "MEW", "046", "Common", "Pokémon"),
+                ("Venonat", "MEW", "048", "Common", "Pokémon"), ("Diglett", "MEW", "050", "Common", "Pokémon"),
+                ("Meowth", "MEW", "052", "Common", "Pokémon"), ("Psyduck", "MEW", "054", "Common", "Pokémon"),
+                ("Mankey", "MEW", "056", "Common", "Pokémon"), ("Growlithe", "MEW", "058", "Common", "Pokémon"),
+                ("Poliwag", "MEW", "060", "Common", "Pokémon"), ("Poliwhirl", "MEW", "061", "Common", "Pokémon"),
+                ("Abra", "MEW", "063", "Common", "Pokémon"), ("Machop", "MEW", "066", "Common", "Pokémon"),
+                ("Bellsprout", "MEW", "069", "Common", "Pokémon"), ("Weepinbell", "MEW", "070", "Common", "Pokémon"),
+                ("Tentacool", "MEW", "072", "Common", "Pokémon"), ("Geodude", "MEW", "074", "Common", "Pokémon"),
+                ("Ponyta", "MEW", "077", "Common", "Pokémon"), ("Slowpoke", "MEW", "079", "Common", "Pokémon"),
+                ("Magnemite", "MEW", "081", "Common", "Pokémon"), ("Farfetch’d", "MEW", "083", "Common", "Pokémon"),
+                ("Doduo", "MEW", "084", "Common", "Pokémon"), ("Seel", "MEW", "086", "Common", "Pokémon"),
+                ("Grimer", "MEW", "088", "Common", "Pokémon"), ("Shellder", "MEW", "090", "Common", "Pokémon"),
+                ("Gastly", "MEW", "092", "Common", "Pokémon"), ("Drowzee", "MEW", "096", "Common", "Pokémon"),
+                ("Krabby", "MEW", "098", "Common", "Pokémon"), ("Voltorb", "MEW", "100", "Common", "Pokémon"),
+                ("Exeggcute", "MEW", "102", "Common", "Pokémon"), ("Cubone", "MEW", "104", "Common", "Pokémon"),
+                ("Lickitung", "MEW", "108", "Common", "Pokémon"), ("Koffing", "MEW", "109", "Common", "Pokémon"),
+                ("Rhyhorn", "MEW", "111", "Common", "Pokémon"), ("Tangela", "MEW", "114", "Common", "Pokémon"),
+                ("Horsea", "MEW", "116", "Common", "Pokémon"), ("Goldeen", "MEW", "118", "Common", "Pokémon"),
+                ("Staryu", "MEW", "120", "Common", "Pokémon"), ("Electabuzz", "MEW", "125", "Common", "Pokémon"),
+                ("Magmar", "MEW", "126", "Common", "Pokémon"), ("Magikarp", "MEW", "129", "Common", "Pokémon"),
+                ("Eevee", "MEW", "133", "Common", "Pokémon"), ("Porygon", "MEW", "137", "Common", "Pokémon"),
+                ("Dratini", "MEW", "147", "Common", "Pokémon"), ("Antique Dome Fossil", "MEW", "152", "Common", "Trainer"),
+                ("Antique Helix Fossil", "MEW", "153", "Common", "Trainer"), ("Antique Old Amber", "MEW", "154", "Common", "Trainer")
+            ],
+            "Uncommon": [
+                ("Ivysaur", "MEW", "002", "Uncommon", "Pokémon"), ("Charmeleon", "MEW", "005", "Uncommon", "Pokémon"),
+                ("Wartortle", "MEW", "008", "Uncommon", "Pokémon"), ("Butterfree", "MEW", "012", "Uncommon", "Pokémon"),
+                ("Pidgeot", "MEW", "018", "Uncommon", "Pokémon"), ("Raticate", "MEW", "020", "Uncommon", "Pokémon"),
+                ("Fearow", "MEW", "022", "Uncommon", "Pokémon"), ("Sandslash", "MEW", "028", "Uncommon", "Pokémon"),
+                ("Nidorina", "MEW", "030", "Uncommon", "Pokémon"), ("Nidoqueen", "MEW", "031", "Uncommon", "Pokémon"),
+                ("Nidorino", "MEW", "033", "Uncommon", "Pokémon"), ("Clefable", "MEW", "036", "Uncommon", "Pokémon"),
+                ("Golbat", "MEW", "042", "Uncommon", "Pokémon"), ("Gloom", "MEW", "044", "Uncommon", "Pokémon"),
+                ("Parasect", "MEW", "047", "Uncommon", "Pokémon"), ("Venomoth", "MEW", "049", "Uncommon", "Pokémon"),
+                ("Dugtrio", "MEW", "051", "Uncommon", "Pokémon"), ("Persian", "MEW", "053", "Uncommon", "Pokémon"),
+                ("Golduck", "MEW", "055", "Uncommon", "Pokémon"), ("Primeape", "MEW", "057", "Uncommon", "Pokémon"),
+                ("Arcanine", "MEW", "059", "Uncommon", "Pokémon"), ("Poliwrath", "MEW", "062", "Uncommon", "Pokémon"),
+                ("Kadabra", "MEW", "064", "Uncommon", "Pokémon"), ("Machoke", "MEW", "067", "Uncommon", "Pokémon"),
+                ("Victreebel", "MEW", "071", "Uncommon", "Pokémon"), ("Tentacruel", "MEW", "073", "Uncommon", "Pokémon"),
+                ("Graveler", "MEW", "075", "Uncommon", "Pokémon"), ("Rapidash", "MEW", "078", "Uncommon", "Pokémon"),
+                ("Slowbro", "MEW", "080", "Uncommon", "Pokémon"), ("Magneton", "MEW", "082", "Uncommon", "Pokémon"),
+                ("Dewgong", "MEW", "087", "Uncommon", "Pokémon"), ("Muk", "MEW", "089", "Uncommon", "Pokémon"),
+                ("Cloyster", "MEW", "091", "Uncommon", "Pokémon"), ("Haunter", "MEW", "093", "Uncommon", "Pokémon"),
+                ("Onix", "MEW", "095", "Uncommon", "Pokémon"), ("Hypno", "MEW", "097", "Uncommon", "Pokémon"),
+                ("Kingler", "MEW", "099", "Uncommon", "Pokémon"), ("Exeggutor", "MEW", "103", "Uncommon", "Pokémon"),
+                ("Hitmonlee", "MEW", "106", "Uncommon", "Pokémon"), ("Hitmonchan", "MEW", "107", "Uncommon", "Pokémon"),
+                ("Rhydon", "MEW", "112", "Uncommon", "Pokémon"), ("Seadra", "MEW", "117", "Uncommon", "Pokémon"),
+                ("Seaking", "MEW", "119", "Uncommon", "Pokémon"), ("Scyther", "MEW", "123", "Uncommon", "Pokémon"),
+                ("Pinsir", "MEW", "127", "Uncommon", "Pokémon"), ("Tauros", "MEW", "128", "Uncommon", "Pokémon"),
+                ("Lapras", "MEW", "131", "Uncommon", "Pokémon"), ("Omanyte", "MEW", "138", "Uncommon", "Pokémon"),
+                ("Kabuto", "MEW", "140", "Uncommon", "Pokémon"), ("Snorlax", "MEW", "143", "Uncommon", "Pokémon"),
+                ("Dragonair", "MEW", "148", "Uncommon", "Pokémon"), ("Big Air Balloon", "MEW", "155", "Uncommon", "Trainer"),
+                ("Bill’s Transfer", "MEW", "156", "Uncommon", "Trainer"), ("Cycling Road", "MEW", "157", "Uncommon", "Trainer"),
+                ("Daisy’s Help", "MEW", "158", "Uncommon", "Trainer"), ("Energy Sticker", "MEW", "159", "Uncommon", "Trainer"),
+                ("Erika’s Invitation", "MEW", "160", "Uncommon", "Trainer"), ("Giovanni’s Charisma", "MEW", "161", "Uncommon", "Trainer"),
+                ("Grabber", "MEW", "162", "Uncommon", "Trainer"), ("Leftovers", "MEW", "163", "Uncommon", "Trainer"),
+                ("Protective Goggles", "MEW", "164", "Uncommon", "Trainer"), ("Rigid Band", "MEW", "165", "Uncommon", "Trainer")
+            ],
+            "Rare": [
+                ("Beedrill", "MEW", "015", "Rare", "Pokémon"), ("Raichu", "MEW", "026", "Rare", "Pokémon"),
+                ("Nidoking", "MEW", "034", "Rare", "Pokémon"), ("Vileplume", "MEW", "045", "Rare", "Pokémon"),
+                ("Machamp", "MEW", "068", "Rare", "Pokémon"), ("Dodrio", "MEW", "085", "Rare", "Pokémon"),
+                ("Gengar", "MEW", "094", "Rare", "Pokémon"), ("Electrode", "MEW", "101", "Rare", "Pokémon"),
+                ("Marowak", "MEW", "105", "Rare", "Pokémon"), ("Weezing", "MEW", "110", "Rare", "Pokémon"),
+                ("Chansey", "MEW", "113", "Rare", "Pokémon"), ("Starmie", "MEW", "121", "Rare", "Pokémon"),
+                ("Mr. Mime", "MEW", "122", "Rare", "Pokémon"), ("Gyarados", "MEW", "130", "Rare", "Pokémon"),
+                ("Ditto", "MEW", "132", "Rare", "Pokémon"), ("Vaporeon", "MEW", "134", "Rare", "Pokémon"),
+                ("Jolteon", "MEW", "135", "Rare", "Pokémon"), ("Flareon", "MEW", "136", "Rare", "Pokémon"),
+                ("Omastar", "MEW", "139", "Rare", "Pokémon"), ("Kabutops", "MEW", "141", "Rare", "Pokémon"),
+                ("Aerodactyl", "MEW", "142", "Rare", "Pokémon"), ("Articuno", "MEW", "144", "Rare", "Pokémon"),
+                ("Moltres", "MEW", "146", "Rare", "Pokémon"), ("Dragonite", "MEW", "149", "Rare", "Pokémon"),
+                ("Mewtwo", "MEW", "150", "Rare", "Pokémon")
+            ],
+            "Holo Rare": [],
+            "Double Rare": [
+                ("Venusaur ex", "MEW", "003", "Double Rare", "Pokémon"), ("Charizard ex", "MEW", "006", "Double Rare", "Pokémon"),
+                ("Blastoise ex", "MEW", "009", "Double Rare", "Pokémon"), ("Arbok ex", "MEW", "024", "Double Rare", "Pokémon"),
+                ("Ninetales ex", "MEW", "038", "Double Rare", "Pokémon"), ("Wigglytuff ex", "MEW", "040", "Double Rare", "Pokémon"),
+                ("Alakazam ex", "MEW", "065", "Double Rare", "Pokémon"), ("Golem ex", "MEW", "076", "Double Rare", "Pokémon"),
+                ("Kangaskhan ex", "MEW", "115", "Double Rare", "Pokémon"), ("Jynx ex", "MEW", "124", "Double Rare", "Pokémon"),
+                ("Zapdos ex", "MEW", "145", "Double Rare", "Pokémon"), ("Mew ex", "MEW", "151", "Double Rare", "Pokémon")
+            ],
+            "Illustration Rare": [
+                ("Bulbasaur", "MEW", "166", "Illustration Rare", "Pokémon"), ("Ivysaur", "MEW", "167", "Illustration Rare", "Pokémon"),
+                ("Charmander", "MEW", "168", "Illustration Rare", "Pokémon"), ("Charmeleon", "MEW", "169", "Illustration Rare", "Pokémon"),
+                ("Squirtle", "MEW", "170", "Illustration Rare", "Pokémon"), ("Wartortle", "MEW", "171", "Illustration Rare", "Pokémon"),
+                ("Caterpie", "MEW", "172", "Illustration Rare", "Pokémon"), ("Pikachu", "MEW", "173", "Illustration Rare", "Pokémon"),
+                ("Nidoking", "MEW", "174", "Illustration Rare", "Pokémon"), ("Psyduck", "MEW", "175", "Illustration Rare", "Pokémon"),
+                ("Poliwhirl", "MEW", "176", "Illustration Rare", "Pokémon"), ("Machoke", "MEW", "177", "Illustration Rare", "Pokémon"),
+                ("Tangela", "MEW", "178", "Illustration Rare", "Pokémon"), ("Mr. Mime", "MEW", "179", "Illustration Rare", "Pokémon"),
+                ("Omanyte", "MEW", "180", "Illustration Rare", "Pokémon"), ("Dragonair", "MEW", "181", "Illustration Rare", "Pokémon")
+            ],
+            "Ultra Rare": [
+                ("Venusaur ex", "MEW", "182", "Ultra Rare", "Pokémon"), ("Charizard ex", "MEW", "183", "Ultra Rare", "Pokémon"),
+                ("Blastoise ex", "MEW", "184", "Ultra Rare", "Pokémon"), ("Arbok ex", "MEW", "185", "Ultra Rare", "Pokémon"),
+                ("Ninetales ex", "MEW", "186", "Ultra Rare", "Pokémon"), ("Wigglytuff ex", "MEW", "187", "Ultra Rare", "Pokémon"),
+                ("Alakazam ex", "MEW", "188", "Ultra Rare", "Pokémon"), ("Golem ex", "MEW", "189", "Ultra Rare", "Pokémon"),
+                ("Kangaskhan ex", "MEW", "190", "Ultra Rare", "Pokémon"), ("Jynx ex", "MEW", "191", "Ultra Rare", "Pokémon"),
+                ("Zapdos ex", "MEW", "192", "Ultra Rare", "Pokémon"), ("Mew ex", "MEW", "193", "Ultra Rare", "Pokémon"),
+                ("Bill’s Transfer", "MEW", "194", "Ultra Rare", "Trainer"), ("Daisy’s Help", "MEW", "195", "Ultra Rare", "Trainer"),
+                ("Erika’s Invitation", "MEW", "196", "Ultra Rare", "Trainer"), ("Giovanni’s Charisma", "MEW", "197", "Ultra Rare", "Trainer")
+            ],
+            "Special Illustration Rare": [
+                ("Venusaur ex", "MEW", "198", "Special Illustration Rare", "Pokémon"), ("Charizard ex", "MEW", "199", "Special Illustration Rare", "Pokémon"),
+                ("Blastoise ex", "MEW", "200", "Special Illustration Rare", "Pokémon"), ("Alakazam ex", "MEW", "201", "Special Illustration Rare", "Pokémon"),
+                ("Zapdos ex", "MEW", "202", "Special Illustration Rare", "Pokémon"), ("Erika’s Invitation", "MEW", "203", "Special Illustration Rare", "Trainer"),
+                ("Giovanni’s Charisma", "MEW", "204", "Special Illustration Rare", "Trainer")
+            ],
+            "Hyper Rare": [
+                ("Mew ex", "MEW", "205", "Hyper Rare", "Pokémon"), ("Switch", "MEW", "206", "Hyper Rare", "Trainer"),
+                ("Basic Psychic Energy", "MEW", "207", "Hyper Rare", "Energy")
+            ]
+        }
+    }
+}

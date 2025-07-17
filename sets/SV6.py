@@ -1,0 +1,142 @@
+SV6 = {
+    "Twilight Masquerade": {
+        "pull_rates": {
+            "P_DR": 1/6, "P_ASR": 1/20, "P_IR": 1/13, "P_UR": 1/15, "P_SIR": 1/86, "P_HR": 1/146
+        },
+        "card_database": {
+            "Common": [
+                ("Tangela", "TWM", "001", "Common", "Pokémon"), ("Tangrowth", "TWM", "002", "Common", "Pokémon"),
+                ("Pinsir", "TWM", "003", "Common", "Pokémon"), ("Spinarak", "TWM", "004", "Common", "Pokémon"),
+                ("Sunkern", "TWM", "006", "Common", "Pokémon"), ("Volbeat", "TWM", "009", "Common", "Pokémon"),
+                ("Illumise", "TWM", "010", "Common", "Pokémon"), ("Phantump", "TWM", "012", "Common", "Pokémon"),
+                ("Trevenant", "TWM", "013", "Common", "Pokémon"), ("Grookey", "TWM", "014", "Common", "Pokémon"),
+                ("Thwackey", "TWM", "015", "Common", "Pokémon"), ("Applin", "TWM", "017", "Common", "Pokémon"),
+                ("Poltchageist", "TWM", "020", "Common", "Pokémon"), ("Poltchageist", "TWM", "021", "Common", "Pokémon"),
+                ("Vulpix", "TWM", "026", "Common", "Pokémon"), ("Ninetales", "TWM", "027", "Common", "Pokémon"),
+                ("Slugma", "TWM", "028", "Common", "Pokémon"), ("Torkoal", "TWM", "030", "Common", "Pokémon"),
+                ("Chimchar", "TWM", "031", "Common", "Pokémon"), ("Monferno", "TWM", "032", "Common", "Pokémon"),
+                ("Darumaka", "TWM", "034", "Common", "Pokémon"), ("Litwick", "TWM", "036", "Common", "Pokémon"),
+                ("Lampent", "TWM", "037", "Common", "Pokémon"), ("Poliwag", "TWM", "041", "Common", "Pokémon"),
+                ("Poliwhirl", "TWM", "042", "Common", "Pokémon"), ("Goldeen", "TWM", "044", "Common", "Pokémon"),
+                ("Seaking", "TWM", "045", "Common", "Pokémon"), ("Jynx", "TWM", "046", "Common", "Pokémon"),
+                ("Corphish", "TWM", "047", "Common", "Pokémon"), ("Crawdaunt", "TWM", "048", "Common", "Pokémon"),
+                ("Feebas", "TWM", "049", "Common", "Pokémon"), ("Snorunt", "TWM", "051", "Common", "Pokémon"),
+                ("Phione", "TWM", "055", "Common", "Pokémon"), ("Froakie", "TWM", "056", "Common", "Pokémon"),
+                ("Frogadier", "TWM", "057", "Common", "Pokémon"), ("Finizen", "TWM", "059", "Common", "Pokémon"),
+                ("Shinx", "TWM", "066", "Common", "Pokémon"), ("Luxio", "TWM", "067", "Common", "Pokémon"),
+                ("Emolga", "TWM", "069", "Common", "Pokémon"), ("Helioptile", "TWM", "070", "Common", "Pokémon"),
+                ("Heliolisk", "TWM", "071", "Common", "Pokémon"), ("Tadbulb", "TWM", "073", "Common", "Pokémon"),
+                ("Wattrel", "TWM", "075", "Common", "Pokémon"), ("Clefairy", "TWM", "078", "Common", "Pokémon"),
+                ("Abra", "TWM", "080", "Common", "Pokémon"), ("Kadabra", "TWM", "081", "Common", "Pokémon"),
+                ("Girafarig", "TWM", "083", "Common", "Pokémon"), ("Chimecho", "TWM", "085", "Common", "Pokémon"),
+                ("Flabébé", "TWM", "086", "Common", "Pokémon"), ("Floette", "TWM", "087", "Common", "Pokémon"),
+                ("Swirlix", "TWM", "089", "Common", "Pokémon"), ("Sandygast", "TWM", "091", "Common", "Pokémon"),
+                ("Palossand", "TWM", "092", "Common", "Pokémon"), ("Sandshrew", "TWM", "097", "Common", "Pokémon"),
+                ("Hisuian Growlithe", "TWM", "099", "Common", "Pokémon"), ("Nosepass", "TWM", "101", "Common", "Pokémon"),
+                ("Timburr", "TWM", "103", "Common", "Pokémon"), ("Gurdurr", "TWM", "104", "Common", "Pokémon"),
+                ("Hawlucha", "TWM", "107", "Common", "Pokémon"), ("Glimmet", "TWM", "108", "Common", "Pokémon"),
+                ("Poochyena", "TWM", "113", "Common", "Pokémon"), ("Venipede", "TWM", "115", "Common", "Pokémon"),
+                ("Whirlipede", "TWM", "116", "Common", "Pokémon"), ("Skarmory", "TWM", "119", "Common", "Pokémon"),
+                ("Aron", "TWM", "120", "Common", "Pokémon"), ("Lairon", "TWM", "121", "Common", "Pokémon"),
+                ("Varoom", "TWM", "124", "Common", "Pokémon"), ("Applin", "TWM", "126", "Common", "Pokémon"),
+                ("Dreepy", "TWM", "128", "Common", "Pokémon"), ("Drakloak", "TWM", "129", "Common", "Pokémon"),
+                ("Farfetch’d", "TWM", "132", "Common", "Pokémon"), ("Chansey", "TWM", "133", "Common", "Pokémon"),
+                ("Eevee", "TWM", "135", "Common", "Pokémon"), ("Aipom", "TWM", "137", "Common", "Pokémon"),
+                ("Ducklett", "TWM", "139", "Common", "Pokémon"), ("Caretaker", "TWM", "144", "Common", "Trainer")
+            ],
+            "Uncommon": [
+                ("Ariados", "TWM", "005", "Uncommon", "Pokémon"), ("Sunflora", "TWM", "007", "Uncommon", "Pokémon"),
+                ("Heracross", "TWM", "008", "Uncommon", "Pokémon"), ("Leafeon", "TWM", "011", "Uncommon", "Pokémon"),
+                ("Rillaboom", "TWM", "016", "Uncommon", "Pokémon"), ("Dipplin", "TWM", "018", "Uncommon", "Pokémon"),
+                ("Darmanitan", "TWM", "035", "Uncommon", "Pokémon"), ("Chi-Yu", "TWM", "039", "Uncommon", "Pokémon"),
+                ("Poliwrath", "TWM", "043", "Uncommon", "Pokémon"), ("Milotic", "TWM", "050", "Uncommon", "Pokémon"),
+                ("Glalie", "TWM", "052", "Uncommon", "Pokémon"), ("Glaceon", "TWM", "054", "Uncommon", "Pokémon"),
+                ("Cramorant", "TWM", "058", "Uncommon", "Pokémon"), ("Palafin", "TWM", "060", "Uncommon", "Pokémon"),
+                ("Iron Bundle", "TWM", "062", "Uncommon", "Pokémon"), ("Morpeko", "TWM", "072", "Uncommon", "Pokémon"),
+                ("Bellibolt", "TWM", "074", "Uncommon", "Pokémon"), ("Kilowattrel", "TWM", "076", "Uncommon", "Pokémon"),
+                ("Clefable", "TWM", "079", "Uncommon", "Pokémon"), ("Farigiraf", "TWM", "084", "Uncommon", "Pokémon"),
+                ("Florges", "TWM", "088", "Uncommon", "Pokémon"), ("Slurpuff", "TWM", "090", "Uncommon", "Pokémon"),
+                ("Sandslash", "TWM", "098", "Uncommon", "Pokémon"), ("Probopass", "TWM", "102", "Uncommon", "Pokémon"),
+                ("Conkeldurr", "TWM", "105", "Uncommon", "Pokémon"), ("Glimmora", "TWM", "109", "Uncommon", "Pokémon"),
+                ("Mightyena", "TWM", "114", "Uncommon", "Pokémon"), ("Scolipede", "TWM", "117", "Uncommon", "Pokémon"),
+                ("Brute Bonnet", "TWM", "118", "Uncommon", "Pokémon"), ("Aggron", "TWM", "122", "Uncommon", "Pokémon"),
+                ("Revavroom", "TWM", "125", "Uncommon", "Pokémon"), ("Dipplin", "TWM", "127", "Uncommon", "Pokémon"),
+                ("Tatsugiri", "TWM", "131", "Uncommon", "Pokémon"), ("Snorlax", "TWM", "136", "Uncommon", "Pokémon"),
+                ("Ambipom", "TWM", "138", "Uncommon", "Pokémon"), ("Swanna", "TWM", "140", "Uncommon", "Pokémon"),
+                ("Accompanying Flute", "TWM", "142", "Uncommon", "Trainer"), ("Bug Catching Set", "TWM", "143", "Uncommon", "Trainer"),
+                ("Carmine", "TWM", "145", "Uncommon", "Trainer"), ("Community Center", "TWM", "146", "Uncommon", "Trainer"),
+                ("Cook", "TWM", "147", "Uncommon", "Trainer"), ("Enhanced Hammer", "TWM", "148", "Uncommon", "Trainer"),
+                ("Festival Grounds", "TWM", "149", "Uncommon", "Trainer"), ("Handheld Fan", "TWM", "150", "Uncommon", "Trainer"),
+                ("Hassel", "TWM", "151", "Uncommon", "Trainer"), ("Jamming Tower", "TWM", "153", "Uncommon", "Trainer"),
+                ("Kieran", "TWM", "154", "Uncommon", "Trainer"), ("Lana’s Aid", "TWM", "155", "Uncommon", "Trainer"),
+                ("Love Ball", "TWM", "156", "Uncommon", "Trainer"), ("Lucian", "TWM", "157", "Uncommon", "Trainer"),
+                ("Lucky Helmet", "TWM", "158", "Uncommon", "Trainer"), ("Ogre’s Mask", "TWM", "159", "Uncommon", "Trainer"),
+                ("Perrin", "TWM", "160", "Uncommon", "Trainer"), ("Raifort", "TWM", "161", "Uncommon", "Trainer"),
+                ("Boomerang Energy", "TWM", "166", "Uncommon", "Energy")
+            ],
+            "Rare": [
+                ("Iron Leaves", "TWM", "019", "Rare", "Pokémon"), ("Sinistcha", "TWM", "022", "Rare", "Pokémon"),
+                ("Teal Mask Ogerpon", "TWM", "024", "Rare", "Pokémon"), ("Infernape", "TWM", "033", "Rare", "Pokémon"),
+                ("Chandelure", "TWM", "038", "Rare", "Pokémon"), ("Froslass", "TWM", "053", "Rare", "Pokémon"),
+                ("Walking Wake", "TWM", "063", "Rare", "Pokémon"), ("Zapdos", "TWM", "065", "Rare", "Pokémon"),
+                ("Alakazam", "TWM", "082", "Rare", "Pokémon"), ("Enamorus", "TWM", "093", "Rare", "Pokémon"),
+                ("Munkidori", "TWM", "095", "Rare", "Pokémon"), ("Fezandipiti", "TWM", "096", "Rare", "Pokémon"),
+                ("Hisuian Arcanine", "TWM", "100", "Rare", "Pokémon"), ("Ting-Lu", "TWM", "110", "Rare", "Pokémon"),
+                ("Okidogi", "TWM", "111", "Rare", "Pokémon"), ("Heatran", "TWM", "123", "Rare", "Pokémon")
+            ],
+            "Double Rare": [
+                ("Sinistcha ex", "TWM", "023", "Double Rare", "Pokémon"), ("Teal Mask Ogerpon ex", "TWM", "025", "Double Rare", "Pokémon"),
+                ("Magcargo ex", "TWM", "029", "Double Rare", "Pokémon"), ("Hearthflame Mask Ogerpon ex", "TWM", "040", "Double Rare", "Pokémon"),
+                ("Palafin ex", "TWM", "061", "Double Rare", "Pokémon"), ("Wellspring Mask Ogerpon ex", "TWM", "064", "Double Rare", "Pokémon"),
+                ("Luxray ex", "TWM", "068", "Double Rare", "Pokémon"), ("Iron Thorns ex", "TWM", "077", "Double Rare", "Pokémon"),
+                ("Scream Tail ex", "TWM", "094", "Double Rare", "Pokémon"), ("Greninja ex", "TWM", "106", "Double Rare", "Pokémon"),
+                ("Cornerstone Mask Ogerpon ex", "TWM", "112", "Double Rare", "Pokémon"), ("Dragapult ex", "TWM", "130", "Double Rare", "Pokémon"),
+                ("Blissey ex", "TWM", "134", "Double Rare", "Pokémon"), ("Bloodmoon Ursaluna ex", "TWM", "141", "Double Rare", "Pokémon")
+            ],
+            "ACE SPEC": [
+                ("Hyper Aroma", "TWM", "152", "ACE SPEC", "Trainer"), ("Scoop Up Cyclone", "TWM", "162", "ACE SPEC", "Trainer"),
+                ("Secret Box", "TWM", "163", "ACE SPEC", "Trainer"), ("Survival Brace", "TWM", "164", "ACE SPEC", "Trainer"),
+                ("Unfair Stamp", "TWM", "165", "ACE SPEC", "Trainer"), ("Legacy Energy", "TWM", "167", "ACE SPEC", "Energy")
+            ],
+            "Illustration Rare": [
+                ("Pinsir", "TWM", "168", "Illustration Rare", "Pokémon"), ("Sunflora", "TWM", "169", "Illustration Rare", "Pokémon"),
+                ("Dipplin", "TWM", "170", "Illustration Rare", "Pokémon"), ("Poltchageist", "TWM", "171", "Illustration Rare", "Pokémon"),
+                ("Torkoal", "TWM", "172", "Illustration Rare", "Pokémon"), ("Infernape", "TWM", "173", "Illustration Rare", "Pokémon"),
+                ("Froslass", "TWM", "174", "Illustration Rare", "Pokémon"), ("Phione", "TWM", "175", "Illustration Rare", "Pokémon"),
+                ("Cramorant", "TWM", "176", "Illustration Rare", "Pokémon"), ("Heliolisk", "TWM", "177", "Illustration Rare", "Pokémon"),
+                ("Wattrel", "TWM", "178", "Illustration Rare", "Pokémon"), ("Chimecho", "TWM", "179", "Illustration Rare", "Pokémon"),
+                ("Enamorus", "TWM", "180", "Illustration Rare", "Pokémon"), ("Hisuian Growlithe", "TWM", "181", "Illustration Rare", "Pokémon"),
+                ("Probopass", "TWM", "182", "Illustration Rare", "Pokémon"), ("Timburr", "TWM", "183", "Illustration Rare", "Pokémon"),
+                ("Lairon", "TWM", "184", "Illustration Rare", "Pokémon"), ("Applin", "TWM", "185", "Illustration Rare", "Pokémon"),
+                ("Tatsugiri", "TWM", "186", "Illustration Rare", "Pokémon"), ("Chansey", "TWM", "187", "Illustration Rare", "Pokémon"),
+                ("Eevee", "TWM", "188", "Illustration Rare", "Pokémon")
+            ],
+            "Ultra Rare": [
+                ("Sinistcha ex", "TWM", "189", "Ultra Rare", "Pokémon"), ("Teal Mask Ogerpon ex", "TWM", "190", "Ultra Rare", "Pokémon"),
+                ("Magcargo ex", "TWM", "191", "Ultra Rare", "Pokémon"), ("Hearthflame Mask Ogerpon ex", "TWM", "192", "Ultra Rare", "Pokémon"),
+                ("Palafin ex", "TWM", "193", "Ultra Rare", "Pokémon"), ("Wellspring Mask Ogerpon ex", "TWM", "194", "Ultra Rare", "Pokémon"),
+                ("Luxray ex", "TWM", "195", "Ultra Rare", "Pokémon"), ("Iron Thorns ex", "TWM", "196", "Ultra Rare", "Pokémon"),
+                ("Scream Tail ex", "TWM", "197", "Ultra Rare", "Pokémon"), ("Greninja ex", "TWM", "198", "Ultra Rare", "Pokémon"),
+                ("Cornerstone Mask Ogerpon ex", "TWM", "199", "Ultra Rare", "Pokémon"), ("Dragapult ex", "TWM", "200", "Ultra Rare", "Pokémon"),
+                ("Blissey ex", "TWM", "201", "Ultra Rare", "Pokémon"), ("Bloodmoon Ursaluna ex", "TWM", "202", "Ultra Rare", "Pokémon"),
+                ("Caretaker", "TWM", "203", "Ultra Rare", "Trainer"), ("Carmine", "TWM", "204", "Ultra Rare", "Trainer"),
+                ("Hassel", "TWM", "205", "Ultra Rare", "Trainer"), ("Kieran", "TWM", "206", "Ultra Rare", "Trainer"),
+                ("Lana’s Aid", "TWM", "207", "Ultra Rare", "Trainer"), ("Lucian", "TWM", "208", "Ultra Rare", "Trainer"),
+                ("Perrin", "TWM", "209", "Ultra Rare", "Trainer")
+            ],
+            "Special Illustration Rare": [
+                ("Sinistcha ex", "TWM", "210", "Special Illustration Rare", "Pokémon"), ("Teal Mask Ogerpon ex", "TWM", "211", "Special Illustration Rare", "Pokémon"),
+                ("Hearthflame Mask Ogerpon ex", "TWM", "212", "Special Illustration Rare", "Pokémon"), ("Wellspring Mask Ogerpon ex", "TWM", "213", "Special Illustration Rare", "Pokémon"),
+                ("Greninja ex", "TWM", "214", "Special Illustration Rare", "Pokémon"), ("Cornerstone Mask Ogerpon ex", "TWM", "215", "Special Illustration Rare", "Pokémon"),
+                ("Bloodmoon Ursaluna ex", "TWM", "216", "Special Illustration Rare", "Pokémon"), ("Carmine", "TWM", "217", "Special Illustration Rare", "Trainer"),
+                ("Kieran", "TWM", "218", "Special Illustration Rare", "Trainer"), ("Lana’s Aid", "TWM", "219", "Special Illustration Rare", "Trainer"),
+                ("Perrin", "TWM", "220", "Special Illustration Rare", "Trainer")
+            ],
+            "Hyper Rare": [
+                ("Teal Mask Ogerpon ex", "TWM", "221", "Hyper Rare", "Pokémon"), ("Bloodmoon Ursaluna ex", "TWM", "222", "Hyper Rare", "Pokémon"),
+                ("Buddy-Buddy Poffin", "TWM", "223", "Hyper Rare", "Trainer"), ("Enhanced Hammer", "TWM", "224", "Hyper Rare", "Trainer"),
+                ("Rescue Board", "TWM", "225", "Hyper Rare", "Trainer"), ("Luminous Energy", "TWM", "226", "Hyper Rare", "Energy")
+            ]
+        }
+    }
+}
